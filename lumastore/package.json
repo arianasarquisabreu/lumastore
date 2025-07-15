@@ -1,7 +1,7 @@
 {
   "name": "lumastore",
   "version": "1.0.0",
-  "description": "Desafio de automação da Luma Store com Cypress",
+  "description": "Desafio Luma Store com Cypress",
   "scripts": {
     "test": "cypress run"
   },
