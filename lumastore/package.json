@@ -1,0 +1,12 @@
+{
+  "name": "lumastore",
+  "version": "1.0.0",
+  "description": "Desafio de automação da Luma Store com Cypress",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0",
+    "mochawesome": "^7.1.3"
+  }
+}
